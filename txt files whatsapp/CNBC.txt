@@ -1,0 +1,30 @@
+WhatsApp delays privacy update over user ‘confusion’ and backlash about Facebook data sharing
+
+
+KEY POINTS
+WhatsApp has pushed back a privacy policy update scheduled for Feb. 8 to May 15.
+The update related specifically to features that allow users to message and interact with businesses on WhatsApp.
+The privacy updates caused “confusion,” WhatsApp said. Many users took it to mean that the app would be sharing more data, including messages, with Facebook.
+
+WhatsApp has delayed a privacy policy update that caused confusion and backlash among users over fears it could mean broader data sharing with the messaging app’s owner Facebook.
+
+“We’ve heard from so many people how much confusion there is around our recent update. There’s been a lot of misinformation causing concern and we want to help everyone understand our principles and the facts,” WhatsApp said in a blog post over the weekend.
+
+The updates related specifically to features that allow users to message and interact with businesses on WhatsApp. Last year, Facebook announced that businesses using WhatsApp could store and manage their chats with customers using Facebook’s “secure hosting infrastructure.”
+
+
+As part of this, a business can see the contents of the message between it and a user and may use that information for its own marketing purposes, which could include advertising on Facebook.
+
+WhatsApp was set to start prompting users on Feb. 8 to accept updated terms in order to continue using the app. But Facebook said that it is now pushing the date back for people to review and accept the terms. No one will have their account suspended or deleted on Feb. 8, Facebook added. People will “gradually” have the chance to review the policy “at their own pace” before the new business options are available on May 15.
+
+The privacy updates caused “confusion,” WhatsApp said. Many users took it to mean that the app would be sharing more data, including messages, with Facebook.
+
+Many users were concerned that the updated privacy policy signaled broader data sharing between WhatsApp and Facebook. But that is not the case. Since 2016, WhatsApp has shared certain data with Facebook such as your phone number.
+
+But the contents of messages cannot be viewed by WhatsApp or Facebook. That’s because they are encrypted. That is not changing.
+
+
+How Facebook makes money by targeting ads directly to you
+However, users concerned about their privacy looked to rival messaging apps Signal and Telegram. These two apps market themselves as privacy-focused and both reported surging downloads.
+
+On Saturday, Signal suffered an outage due to an influx of users. Signal said it was “adding new servers and extra capacity at a record pace every single day” last week and the app came back online on Sunday.

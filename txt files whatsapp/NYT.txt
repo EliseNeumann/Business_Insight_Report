@@ -1,0 +1,35 @@
+WhatsApp Delays Privacy Changes Amid User Backlash
+
+SAN FRANCISCO — WhatsApp said on Friday that it would delay a planned privacy update, as the Facebook-owned messaging service tries to stem a backlash by users worried about the changes.
+
+WhatsApp said it would push back the changes, to May 15 from Feb. 8, to give users more time to review what it planned to do.
+
+This month, WhatsApp notified its users that it would give them new options to message businesses using the service and was updating its privacy terms. WhatsApp’s notification said users would have to accept the new terms by February or no longer have access to their accounts. Though little was actually changing, the company still needed user approval.
+
+Many users and some media outlets interpreted the notification as a marked shift in WhatsApp’s data-sharing practices, mistakenly believing that the company could now read people’s conversations and other personal data. Misinformation spread through the service, touching users around the world.
+
+People flocked to other messaging services, including apps like Signal — which offers so-called end-to-end encryption like WhatsApp — and Telegram, which offers some encryption options. This week, Signal became the No. 1 app in India, one of WhatsApp’s biggest markets, on Apple and Android phones.
+
+Unlock more free articles.
+Create an account or log in
+Now, WhatsApp executives are assuring users that its changes are minor, that it cannot read users’ messages and that its services are more secure than those of some competitors.
+
+“WhatsApp helped bring end-to-end encryption to people across the world, and we are committed to defending this security technology now and in the future,” WhatsApp said in a company blog post. “With these updates, none of that is changing.”
+
+Some limited information from WhatsApp is shared with Facebook, WhatsApp’s parent company. But the changes to WhatsApp’s terms of service to enable that occurred in 2016, and the terms have not been substantially updated since.
+
+
+The fallout reflects a rare misstep for the messaging giant, which Facebook bought in 2014 for $16 billion. For years, Mark Zuckerberg, Facebook’s chief executive, let WhatsApp operate largely as an independent entity, supported by Facebook’s infrastructure and resources. Over that period, WhatsApp grew to serve more than a billion users — most of them outside the United States.
+
+
+ImageBrian Acton, left, and Jan Koum, also standing, the founders of WhatsApp, in 2013. They left in 2018 after a falling out with Mark Zuckerberg, the chief executive of Facebook.
+Brian Acton, left, and Jan Koum, also standing, the founders of WhatsApp, in 2013. They left in 2018 after a falling out with Mark Zuckerberg, the chief executive of Facebook.Credit...Peter DaSilva for The New York Times
+That approach has changed in recent years. Jan Koum and Brian Acton, the founders of WhatsApp, left the company in 2018 after a falling out with Mr. Zuckerberg. Since then, Mr. Zuckerberg’s touch has grown heavier. He wants to stitch together the messaging services between Facebook, Instagram and WhatsApp, which will require years of engineering work.
+
+While Mr. Zuckerberg has positioned Facebook as doubling down on user privacy, some former employees fear the integration could make apps like WhatsApp even less secure over time. WhatsApp is not yet connected to Messenger or Instagram.
+
+The furor over WhatsApp’s privacy changes is bitterly ironic, given the company’s struggles with misinformation on its service. WhatsApp has been used to distribute misinformation around elections in Brazil and other countries, which has been difficult to combat because of the closed, private nature of the service.
+
+WhatsApp has begun sharing graphics in multiple languages detailing exactly what the privacy policy update will mean.
+
+“There’s been a lot of misinformation causing concern, and we want to help everyone understand our principles and the facts,” the company said.

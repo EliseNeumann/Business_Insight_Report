@@ -1,0 +1,47 @@
+Should you keep using WhatsApp? Plus five tips to start the year with your digital privacy intact
+
+If you use the popular messaging service WhatsApp you may have noticed a pop-up message in recent days asking you to accept the service’s new terms and conditions by 8 February in order to continue using it.
+
+The update has prompted calls for users to leave the popular messaging service in favour of alternatives such as Signal and Telegram. And on Friday a legal challenge on privacy grounds was filed against WhatsApp in India, the service’s biggest market. Telegram CEO Pavel Durov has reported an influx of 25 million global users to the rival service since the announcement was made.
+
+
+But what do the new terms and conditions mean for you? We asked former most-wanted hacker turned security consultant Kevin Mitnick which messaging app he prefers – and to share his tips to set yourself up for a cyber-safe 2021.
+
+“I prefer Signal because I know the developer behind the original project, and I know that Signal has been tested in the security community,” Mitnick says. “I believe Telegram has too, and I use Telegram, but not for secure messages.”
+
+You can read WhatsApp’s Q&A about the changes here, but the main thing to know is that messages remain end-to-end encrypted and WhatsApp maintains that neither it, nor anyone else, has access to the content of messages between friends, family and groups. WhatsApp also says it doesn’t keep records of your call logs, share your contacts with Facebook and can’t see your shared location.
+
+WhatsApp users are really Facebook customers now – it's getting harder to forget that
+What has changed is privacy around the content of communication between individuals and businesses that use Facebook hosting services, which will now be accessible to those businesses for their own marketing purposes. As the Guardian’s UK technology editor, Alex Hern, points out the changes aren’t huge, but they do mark a step down the road of a long-term plan to integrate the chat app with Facebook.
+
+At the end of the day choosing a messaging app is a personal preference and Mitnick says as long as the service uses end-to-end encryption and its policies protect your privacy you should be OK. Nevertheless, Mitnick says he has “never communicated a secure message over WhatsApp”.
+
+While choosing a messaging service is an important choice, there are other ways you can ensure your digital security. Here are Mitnick’s top five tips for protecting your privacy online.
+
+1. Use a password manager
+Mitnick says the future of security is password-free, with solutions such as Trusona doing away with usernames and passwords in favour of QR codes and two-factor authentication. But until that technology is widespread, a password manager is the number one tool Mitnick recommends.
+
+Make your master password a full sentence with all the spaces and correct capitalisation, such as “I went to Byron Bay today”. The password manager will do the heavy lifting from there. Every time you visit a site, it will either autofill your existing password or, if it’s a new site, create a strong password for you. Password managers can also scan your current passwords for weaknesses and recommend stronger versions that conform with randomness.
+
+When choosing a password manager, go for Australian, UK or US companies and avoid those based out of Russia or China, Mitnick says. It’s also better to choose a product that has lots of users, like LastPass and One Password, because it’s more likely any vulnerabilities will be picked up quickly.
+
+2. Implement two-factor authentication
+Two-factor authentication or multi-factor authentication is a sign-in method that requires two or more pieces of evidence of your identity to enable login. The first piece is usually a username and password and the second might be an SMS or an app, such as Google authenticator or Authy. You might find SMS more convenient, but an authenticator app is much more secure.
+
+If you need even more security, you can use a YUBikey – a USB authentication device you plug into your computer. A YUBikey is highly secure, but you do have to carry it around with you.
+
+3. Use a VPN
+Mitnick says whenever you’re not on your home or work network you should be using a VPN – a virtual private network – which keeps your browsing safe from spying.
+
+
+Facebook faces biggest legal battle in years as US officials launch lawsuits
+Read more
+You can find a service online that will cost you around $60 a year, but, again, you want to make sure you’re using a service that has a good reputation, such as HMA or ExpressVPN. There’s always a risk with VPNs and using an untrustworthy service goes against the purpose, since it will have access to all your browsing data.
+
+Things to consider when choosing a service include how many people use it (more is better), and where the company and its servers are located (aim for Five Eyes countries: Australia, Canada, New Zealand, the UK and the US).
+
+4. Do security awareness training
+Mitnick says everyone should undertake good security awareness training, which will help you understand how you, as a consumer, could be compromised. There are security courses available for free online that walk you through different areas of consumer-based security, including passwords, online banking, avoiding malware, keeping your personal information confidential, protecting your kids online, and securing your home network, email and attachments.
+
+5. Keep your financial transactions separate
+Not everyone will be able to implement this last tip and Mitnick acknowledges it’s a pain, however it’s a good idea to use a separate device for financial transactions. When you’re surfing the internet, opening files people send you, playing games, the computer you’re using has a high risk of being compromised without you realising it – even if you’re using antivirus software. Mitnick suggests buying an iPad or cheap tablet to use exclusively for financial transactions. He also suggests creating a separate account in your password manager with a distinct master password to store your financial passwords.
